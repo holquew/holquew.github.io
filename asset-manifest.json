@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kodle-modle/static/css/main.15137929.css",
+    "main.js": "/kodle-modle/static/js/main.db55e34f.js",
+    "static/js/787.6a541d2d.chunk.js": "/kodle-modle/static/js/787.6a541d2d.chunk.js",
+    "index.html": "/kodle-modle/index.html",
+    "main.15137929.css.map": "/kodle-modle/static/css/main.15137929.css.map",
+    "main.db55e34f.js.map": "/kodle-modle/static/js/main.db55e34f.js.map",
+    "787.6a541d2d.chunk.js.map": "/kodle-modle/static/js/787.6a541d2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15137929.css",
+    "static/js/main.db55e34f.js"
+  ]
+}
