@@ -4,9 +4,9 @@ import { TextField } from "@material-ui/core";
 
 import BaseCard from "../../../components/BaseCard/BaseCard";
 
-const FiDefaultInputNumber = () => {
+const FiDefaultInputNumber = (props) => {
   return (
-    <BaseCard title="Default Number Input">
+    <BaseCard title={props.title ?? "Default Number Input"} >
       <TextField
         id="standard-number"
         label="Number"
