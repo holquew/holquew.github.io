@@ -1,16 +1,35 @@
 {
-  "homepage": "https://holquew.github.io",
   "name": "hq-calculator",
   "version": "0.1.0",
+  "homepage": "https://holquew.github.io",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "@emotion/cache": "^11.4.0",
+    "@emotion/react": "^11.1.5",
+    "@emotion/styled": "^11.3.0",
+    "@material-ui/core": "^5.0.0-alpha.38",
+    "@material-ui/data-grid": "^4.0.0-alpha.30",
+    "@material-ui/icons": "5.0.0-alpha.37",
+    "@material-ui/lab": "5.0.0-alpha.38",
+    "@material-ui/system": "5.0.0-alpha.34",
+    "@testing-library/jest-dom": "^5.11.10",
+    "@testing-library/react": "^11.2.6",
+    "@testing-library/user-event": "^12.8.3",
+    "apexcharts": "^3.23.1",
+    "gh-pages": "^5.0.0",
+    "history": "^5.3.0",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2",
+    "react-apexcharts": "^1.3.7",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^6.0.0-beta.0",
+    "react-scripts": "4.0.3",
+    "styled-components": "^6.0.0-rc.3",
+    "stylis-plugin-rtl": "^2.1.0",
+    "web-vitals": "^1.1.1"
+  },
+  "devDependencies": {
+    "axios-mock-adapter": "^1.18.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -37,8 +56,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^5.0.0"
   }
 }
