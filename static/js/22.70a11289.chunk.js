@@ -1,2 +1,0 @@
-(this["webpackJsonphq-calculator"]=this["webpackJsonphq-calculator"]||[]).push([[22],{222:function(c,t,a){"use strict";a.r(t);a(0);var n=a(242),r=a(3);t.default=function(){return Object(r.jsx)(n.a,{children:"hi"})}}}]);
-//# sourceMappingURL=22.70a11289.chunk.js.map
